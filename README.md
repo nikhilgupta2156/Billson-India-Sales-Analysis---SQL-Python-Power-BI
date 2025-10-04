@@ -118,6 +118,7 @@ and <b>Power BI</b> for dynamic executive-level reporting.
 </ul>
 
 <h2>See how the Dashboard looks like: </h2>
+
 ![Homepage](https://github.com/nikhilgupta2156/Billson-India-Sales-Analysis---SQL-Python-Power-BI/blob/main/Home%20Page%20-%20Power%20BI.png).
 
 ![Sales Overview](https://github.com/nikhilgupta2156/Billson-India-Sales-Analysis---SQL-Python-Power-BI/blob/main/Sales%20Overview%20-%20Power%20BI.png).
